@@ -70,6 +70,8 @@ second repository for your learners to use in your Git lessons).
 
         and look at http://localhost:4000.
 
+   4.   If you do not have jekyll or you had trouble installing, check if you have the last version of Xcode (Mac users)	
+
 8.  Commit your changes and push to the `gh-pages` branch of your
     repository.
 
